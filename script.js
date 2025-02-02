@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // ==== Todo CRUD Management ===
 
 //Array to store todos
@@ -54,3 +55,6 @@ todoForm.addEventListener('submit', addTodo);
 
 //Initial render
 renderTodos();
+=======
+
+>>>>>>> origin/main
